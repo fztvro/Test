@@ -1,9 +1,9 @@
 package ca.mitx.test;
 
-public class New {
+public class Tester {
 
 	public static void main(String[] args) {
-		System.err.println("xxx");
+		// TODO Auto-generated method stub
 
 	}
 
